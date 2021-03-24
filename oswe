@@ -1,6 +1,0 @@
---- sql ---
-show columns from TABLE_NAME;
-
---- gedit ----
-gedit sftp://HOST/PATH
-
