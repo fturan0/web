@@ -1,0 +1,1 @@
+xfreerdp +nego +sec-rdp +sec-tls +sec-nla /d: /u: /p: /v:machine /u:user /p:pass /size:1180x708
